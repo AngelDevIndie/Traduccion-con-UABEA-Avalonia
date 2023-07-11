@@ -12,3 +12,6 @@ Existen subtítulos en cinemáticas y en el gameplay. Para traducir los primeros
 
 ## **NOTAS**
 Si nos diera el caso de que Unity esté usando ***"il2cpp"***, hay que usar la herramienta **"il2cppdumper"** sobre el archivo ***"Gameassembly.dll"*** y extraer todos los recursos en una carpeta temporal. Luego copiar esos recursos extraidos en la carpeta ***"Manager"*** donde debería estar el archivo ***"Assembly-CSharp.dll"*** y en el programa **UABEA** desactivar la opción _"Cpp2Il"_.
+
+## TO-DO
+- Poner imágenes.
